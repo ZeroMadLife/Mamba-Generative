@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="dcmsl-dual_influenced_community" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="dcmsl-dual_influenced_community" project-jdk-type="Python SDK" />
+</project>
