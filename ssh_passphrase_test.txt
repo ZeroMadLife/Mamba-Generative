@@ -1,0 +1,2 @@
+SSH push passphrase test file
+This file is used to verify whether SSH push prompts for private key passphrase.
